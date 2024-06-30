@@ -1,4 +1,4 @@
-# Docker Images for Raylib Web Environment
+# Docker Images for Raylib Web Developement
 
 Provide out-of-the-box simple web developed environment for raylib developers
 
