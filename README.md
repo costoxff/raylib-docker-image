@@ -6,7 +6,7 @@ Provide out-of-the-box simple web developed environment for raylib developers
 
 Of course the **Docker Engine** , following the [offical installation](https://docs.docker.com/engine/install/).
 
-> May be **podman** can be considered
+> May be [**podman**](https://podman.io/) can be considered
 
 ## How to start
 
@@ -32,7 +32,7 @@ First let me show the directory structure.
 
 ### 1. build & run
 
-Running the command below to build the docker images
+Running the command below to build the docker images.
 
 ```sh
 ./build.sh
@@ -73,11 +73,13 @@ The cmake will generate Makefile, so just **make** it
 make
 ```
 
-You will finally find the compiled file ***index.html*** in **web** directory
+You will finally find the compiled file **index.html** in *web* directory.
 
 ### 3. Test it with python simple http server
 
-The directory has been mounted, so be free to running this command in docker or your host machine
+The directory has been mounted, so be free to running this command in docker or your host machine.
+
+Running the command below in *web* directory.
 
 ```sh
 python3 -m http.server
