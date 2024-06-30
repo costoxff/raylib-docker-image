@@ -91,3 +91,4 @@ open your browser and visit [http://localhost:8000](http://localhost:8000)
 
 - [ ] Specify raylib version when building docker image
 - [ ] Specify emsdk version when building docker image
+- [ ] Minimize the image size
