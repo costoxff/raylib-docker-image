@@ -83,7 +83,7 @@ The directory has been mounted, so be free to running this command in docker or 
 python3 -m http.server
 ```
 
-open your browser and visit [localhost:8000](localhost:8000)
+open your browser and visit [http://localhost:8000](http://localhost:8000)
 
 ## Future Work
 
