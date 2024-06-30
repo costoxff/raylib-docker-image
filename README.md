@@ -6,7 +6,7 @@ Provide out-of-the-box simple web developed environment for raylib developers
 
 Of course the **Docker Engine** , following the [offical installation](https://docs.docker.com/engine/install/).
 
-> May be [**podman**](https://podman.io/) can be considered
+> May be [**podman**](https://podman.io/) can be considered too
 
 ## How to start
 
