@@ -10,7 +10,7 @@ Of course the **Docker Engine** , following the [offical installation](https://d
 
 ## How to start
 
-first let me show the file structure
+First let me show the directory structure.
 
 ```sh
 .
