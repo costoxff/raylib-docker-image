@@ -44,7 +44,7 @@ While building successfully, you can run the command:
 ./run-env.sh
 ```
 
-> If you want to install something pakage in runing container, please remove flag `--rm` in **run-env.sh**
+> If you want to install something packages in runing container, please remove flag `--rm` in **run-env.sh**
 
 After that your working directory will be `/home/user/game` which the host directory `game` has been mounted.
 
@@ -60,7 +60,7 @@ mkdir build && cd build
 
 #### (b.)
 
-**emcmake** will define `-DCMAKE_TOOLCHAIN_FILE` `-DCMAKE_CROSSCOMPILING_EMULATOR` for cmake. Always adding **emcmake** before **cmake**.
+**emcmake** will define `-DCMAKE_TOOLCHAIN_FILE` `-DCMAKE_CROSSCOMPILING_EMULATOR` for cmake. Always adding **emcmake** before **cmake** command.
 
 ```sh
 emcmake cmake ..
