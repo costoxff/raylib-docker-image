@@ -21,7 +21,7 @@ First let me show the directory structure.
 └── run-env.sh
 ```
 
-| file/dir | remark |
+| file/dir | notes |
 | --- | --- |
 | Dockerfile | how to build the raylib web env |
 | build.sh | build the raylib web env |
